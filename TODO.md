@@ -1,0 +1,3 @@
+- [x] Update hero section HTML in index.html
+- [ ] Update CSS styles for hero-title, highlight, and typewriter
+- [ ] Update JavaScript for letter animation and advanced typewriter
